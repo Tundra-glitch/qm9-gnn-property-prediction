@@ -86,5 +86,5 @@ Loss decreases smoothly over training epochs, indicating:
 ## 🚀 How to Run
 
 ```bash
-pip install torch torch-geometric rdkit
+pip install torch torch-geometric rdkit -r requirements.txt
 python train.py
